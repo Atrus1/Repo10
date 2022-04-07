@@ -7,8 +7,8 @@
 
 //       
 }
-    function myFunction(roar,roar) {
-        lion[roar] = roar-roar;
+    function myFunction(roar,roar2) {
+        lion[roar] = roar2
       return {lion};
 
 //
